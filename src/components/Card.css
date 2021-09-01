@@ -1,0 +1,51 @@
+.card-container {
+  overflow: hidden;
+  display: flex;
+}
+
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex: 0.2;
+}
+
+.card-header {
+  display: flex;
+  text-align: center;
+  flex: 0.1;
+}
+
+.card-body {
+  display: flex;
+  align-items: left;
+  text-align: left;
+  flex-direction: column;
+  flex: 0.7;
+}
+
+.card-body p {
+  padding: 0rem 2rem;
+}
+
+.personal-details {
+  padding-bottom: 1rem;
+}
+
+.card-phone {
+  padding-right: 3rem;
+}
+
+.card-website {
+}
+
+.title {
+  font-weight: 600;
+  padding-right: 0.5rem;
+}
