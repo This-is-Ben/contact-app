@@ -32,10 +32,6 @@ p {
   flex: 0.7;
 }
 
-/* .card-body p {
-  padding: 0rem 2rem;
-} */
-
 .personal-details {
   padding-bottom: 1rem;
   display: flex;
@@ -48,9 +44,6 @@ p {
 
 .card-phone {
   padding-right: 3rem;
-}
-
-.card-website {
 }
 
 .title {
