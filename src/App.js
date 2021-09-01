@@ -113,12 +113,12 @@ const App = () => {
               />
             </div>
             <div className="btns">
-              <button className="decrement" onClick={decrement}>
+              <a className="btn-previous" onClick={decrement} href="#">
                 Previous
-              </button>
-              <button className="increment" onClick={increment}>
+              </a>
+              <a className="btn-next" onClick={increment} href="#">
                 Next
-              </button>
+              </a>
             </div>
           </div>
         </section>

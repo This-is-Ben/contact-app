@@ -5,7 +5,7 @@ const Card = (props) => {
   return (
     <div className="card-container">
       <div className="card-title">
-        <h3>{props.company.name}</h3>
+        <h3>Company: {props.company.name}</h3>
       </div>
       <div className="card-header">
         <p className="title">Phone: </p>
@@ -17,8 +17,15 @@ const Card = (props) => {
         {/* currently obmitting username from contact card, can be added by uncommenting below */}
         {/* <p>Username: {props.username}</p> */}
         <div className="personal-details">
-          <p>Name: {props.name}</p>
-          <p>Email: {props.email}</p>
+          <div className="name">
+            <p className="title">Name:</p>
+            <p>{props.name}</p>
+          </div>
+          <div className="display-email">
+            <p>
+              Email: <a>{props.email}</a>
+            </p>
+          </div>
           <p>
             Address: {props.address.street}, {props.address.suite}
             {", "}
