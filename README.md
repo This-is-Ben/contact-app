@@ -1,10 +1,8 @@
 # Getting Started with Contact App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
-In the project directory, you can run:
+Once the repository has been cloned the application can be run from the project directory; you can run:
 
 ### `npm start`
 
@@ -16,4 +14,4 @@ You will also see any lint errors in the console.
 
 ### `requirements`
 
-his project uses npm and requires Node.js to be installed in order to run the application.
+This project uses npm and requires Node.js to be installed in order to run the application.
