@@ -2,7 +2,11 @@
 
 ## Available Scripts
 
-Once the repository has been cloned the application can be run from the project directory; you can run:
+Once the repository has been cloned or downloaded, the application can be run from the project directory. You can start by running:
+
+### `npm install`
+
+Will install all the required dependencies required to run the application. Once complete, the application can be started by running:
 
 ### `npm start`
 
