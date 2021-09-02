@@ -1,8 +1,8 @@
 # Getting Started with Contact App
 
-## Available Scripts
+## To Begin
 
-Once the repository has been cloned or downloaded, the application can be run from the project directory. You can start by running:
+The repository need to been cloned or downloaded. The application can then be run from the project directory. You can start by running:
 
 ### `npm install`
 
@@ -10,7 +10,6 @@ Will install all the required dependencies required to run the application. Once
 
 ### `npm start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
