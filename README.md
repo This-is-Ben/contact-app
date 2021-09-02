@@ -2,7 +2,7 @@
 
 ## To Begin
 
-The repository need to been cloned or downloaded. The application can then be run from the project directory. You can start by running:
+The repository needs to been cloned or downloaded. The application can then be run from the project directory. You can start by running:
 
 ### `npm install`
 
